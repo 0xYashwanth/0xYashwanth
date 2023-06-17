@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:<br>
-👨‍🎓 Sophomore <br>🌱 Currently learning DSA<br>🌐 Interested in Web Dev 
+👨‍🎓 Sophomore <br>🌱 Currently learning DSA<br>🤖 ML Enthusiast 
 
 
 <!--
