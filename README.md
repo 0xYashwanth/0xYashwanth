@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 💫 About Me:<br>
 👨‍🎓 Sophomore <br>🌱 Currently learning DSA<br>🤖 ML Enthusiast 
-
+-->
 
 <!--
 ## 🌐 Socials:
